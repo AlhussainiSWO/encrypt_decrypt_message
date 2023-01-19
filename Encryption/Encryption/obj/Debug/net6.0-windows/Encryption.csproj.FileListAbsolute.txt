@@ -1,0 +1,17 @@
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\bin\Debug\net6.0-windows\Encryption.exe
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\bin\Debug\net6.0-windows\Encryption.deps.json
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\bin\Debug\net6.0-windows\Encryption.runtimeconfig.json
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\bin\Debug\net6.0-windows\Encryption.dll
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\bin\Debug\net6.0-windows\Encryption.pdb
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.csproj.AssemblyReference.cache
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.Form1.resources
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.csproj.GenerateResource.cache
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.AssemblyInfoInputs.cache
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.AssemblyInfo.cs
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.csproj.CoreCompileInputs.cache
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.dll
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\refint\Encryption.dll
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.pdb
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\Encryption.genruntimeconfig.cache
+C:\My Drive on PC\Project\Message App\interface message app\Encryption\Encryption\obj\Debug\net6.0-windows\ref\Encryption.dll

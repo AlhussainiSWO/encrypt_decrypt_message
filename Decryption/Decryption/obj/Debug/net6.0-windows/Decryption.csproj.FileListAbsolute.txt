@@ -1,0 +1,17 @@
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\bin\Debug\net6.0-windows\Decryption.exe
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\bin\Debug\net6.0-windows\Decryption.deps.json
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\bin\Debug\net6.0-windows\Decryption.runtimeconfig.json
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\bin\Debug\net6.0-windows\Decryption.dll
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\bin\Debug\net6.0-windows\Decryption.pdb
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.csproj.AssemblyReference.cache
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.Form1.resources
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.csproj.GenerateResource.cache
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.AssemblyInfoInputs.cache
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.AssemblyInfo.cs
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.csproj.CoreCompileInputs.cache
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.dll
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\refint\Decryption.dll
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.pdb
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\Decryption.genruntimeconfig.cache
+C:\My Drive on PC\Project\Message App\interface message app\Decryption\Decryption\obj\Debug\net6.0-windows\ref\Decryption.dll
